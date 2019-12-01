@@ -7,12 +7,12 @@
 /*  Basic Style 
 /* =================================== */
 ::-moz-selection {
-  /* Code for Firefox */
-  background-color: #7c32ff;
+  /* Code for Firefox (#7c32ff) */
+  background-color: #ffa500;
   color: #fff; }
 
 ::selection {
-  background-color: #7c32ff;
+  background-color: #ffa500;
   color: #fff; }
 
 ::-webkit-input-placeholder {
